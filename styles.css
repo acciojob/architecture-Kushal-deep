@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+*{
+	margin:0;
+	padding:0;
+	background-color:#BAD8B6;
+	width:1100px;
+}
+
+.imageContainer img{
+	width:400px;
+	
+}
